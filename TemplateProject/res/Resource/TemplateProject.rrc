@@ -1,0 +1,9 @@
+ID_IMG_SCREEN_FOOTER_BG#0="footer_background.png";
+ID_IMG_SCREEN_HEADER_BG#0="header_background.png";
+ID_IMG_SCREEN_SPLASH#0="splash.png";
+ID_TXT_ACCEPTTERMS#0="You have to agree to the terms and conditions in order to use this app.";
+ID_TXT_BTN_ACCEPT#0="Accept";
+ID_TXT_BTN_DECLINE#0="Decline";
+ID_TXT_CLEAN_STORAGE#0="Clear Storage";
+ID_TXT_FEEDBACK#0="Feedback";
+ID_URL_TERM_N_CONDS#0="http://www.cucentral.ca/SitePages/Privacy.aspx";
